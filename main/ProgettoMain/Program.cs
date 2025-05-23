@@ -9,11 +9,11 @@ public class Dipendente
     {
         get
         {
-            return _name;
+            return _nome;
         }
         set
         {
-            _name = value;
+            _nome = value;
         }
     }
     public int Eta
@@ -32,7 +32,7 @@ public class Dipendente
     }
 
     public virtual void EseguiCompito()
-    { 
-        Console.WriteLine("Compito generico del dipendente.")
+    {
+        Console.WriteLine("Compito generico del dipendente.");
     }
 }
