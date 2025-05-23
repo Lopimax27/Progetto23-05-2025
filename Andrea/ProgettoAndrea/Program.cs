@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿static void Visualizza()
+{
+    Console.WriteLine("\n-- Elenco dei dipendenti --");
+    foreach (Dipendente d in dipendenti)
+    {
+        Console.WriteLine(d.ToString());
+    }
+
+}
