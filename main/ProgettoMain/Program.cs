@@ -27,7 +27,7 @@ public class Dipendente
             if (value >= 18)
             {
                 _eta = value;
-            }    
+            }
         }
     }
 
@@ -35,4 +35,11 @@ public class Dipendente
     {
         Console.WriteLine("Compito generico del dipendente.");
     }
+
+    public Dipendente(string nome, int eta)
+    {
+        _nome = nome;
+        _eta = eta;
+    }
+    
 }

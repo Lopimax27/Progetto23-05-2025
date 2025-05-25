@@ -35,6 +35,13 @@ public class Dipendente
     {
         Console.WriteLine("Compito generico del dipendente.");
     }
+
+    public Dipendente(string nome, int eta)
+    {
+        _nome = nome;
+        _eta = eta;
+    }
+
 }
 
 public class Program
@@ -69,7 +76,17 @@ public class Program
 
     public static Dipendente InputDipententi()
     {
-        return new Dipendente();
+        Console.WriteLine("Inserisci se il dipendente è un autista o un meccanico o un operatore centrale (1,2,3)");
+        int sceltaDip=int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Inserisci il nome: ");
+        string nome = Console.ReadLine();
+
+        Console.WriteLine("Inserisci l'età: ");
+        int eta = int.Parse(Console.ReadLine());
+
+        //TODO Inserire sistema di controllo che prende in input gli altri valori e con uno switch ritorna il dipendente da aggiungere
+
     }
 
 }
