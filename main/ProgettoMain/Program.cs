@@ -38,8 +38,8 @@ public class Dipendente
 
     public Dipendente(string nome, int eta)
     {
-        _nome = nome;
-        _eta = eta;
+        Nome = nome;
+        Eta = eta;
     }
 
     public override string ToString()
