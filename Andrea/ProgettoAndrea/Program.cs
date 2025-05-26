@@ -1,9 +1,12 @@
-﻿static void Visualizza()
+﻿public class Autista : Dipendente 
 {
-    Console.WriteLine("\n-- Elenco dei dipendenti --");
-    foreach (Dipendente d in dipendenti)
+    public string Patente { get; set; }
+    public Autista(string nome, int eta, string patente) : base(nome, eta)
     {
-        Console.WriteLine(d.ToString());
+        Patente = patente;
     }
-
+    public virtual override EseguiCompito()
+    {
+        Console.Writeline($"Guida il veicolo con patente {Patente}");
+    }
 }

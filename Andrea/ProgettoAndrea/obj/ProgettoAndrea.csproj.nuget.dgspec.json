@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Progetto23-05-2025\\Andrea\\ProgettoAndrea\\ProgettoAndrea.csproj": {}
+    "D:\\github\\Progetto23-05-2025\\Andrea\\ProgettoAndrea\\ProgettoAndrea.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Progetto23-05-2025\\Andrea\\ProgettoAndrea\\ProgettoAndrea.csproj": {
+    "D:\\github\\Progetto23-05-2025\\Andrea\\ProgettoAndrea\\ProgettoAndrea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Progetto23-05-2025\\Andrea\\ProgettoAndrea\\ProgettoAndrea.csproj",
+        "projectUniqueName": "D:\\github\\Progetto23-05-2025\\Andrea\\ProgettoAndrea\\ProgettoAndrea.csproj",
         "projectName": "ProgettoAndrea",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Progetto23-05-2025\\Andrea\\ProgettoAndrea\\ProgettoAndrea.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Progetto23-05-2025\\Andrea\\ProgettoAndrea\\obj\\",
+        "projectPath": "D:\\github\\Progetto23-05-2025\\Andrea\\ProgettoAndrea\\ProgettoAndrea.csproj",
+        "packagesPath": "C:\\Users\\fabbr\\.nuget\\packages\\",
+        "outputPath": "D:\\github\\Progetto23-05-2025\\Andrea\\ProgettoAndrea\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\fabbr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
