@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\bin\Debug\net9.0\ProgettoMain.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\bin\Debug\net9.0\ProgettoMain.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\bin\Debug\net9.0\ProgettoMain.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\bin\Debug\net9.0\ProgettoMain.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\bin\Debug\net9.0\ProgettoMain.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\obj\Debug\net9.0\ProgettoMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\obj\Debug\net9.0\ProgettoMain.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\obj\Debug\net9.0\ProgettoMain.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\obj\Debug\net9.0\ProgettoMain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\obj\Debug\net9.0\ProgettoMain.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\obj\Debug\net9.0\ProgettoMain.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\obj\Debug\net9.0\refint\ProgettoMain.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\obj\Debug\net9.0\ProgettoMain.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\obj\Debug\net9.0\ProgettoMain.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Progetto23-05-2025\main\ProgettoMain\obj\Debug\net9.0\ref\ProgettoMain.dll

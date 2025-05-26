@@ -85,7 +85,6 @@ public class Program
         Console.WriteLine("Inserisci l'età: ");
         int eta = int.Parse(Console.ReadLine());
 
-        //TODO Inserire sistema di controllo che prende in input gli altri valori e con uno switch ritorna il dipendente da aggiungere
 
     }
 
